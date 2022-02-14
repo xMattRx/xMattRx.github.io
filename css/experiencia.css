@@ -12,10 +12,15 @@
 .experiencia-texto{
   font-size: 1.5rem;
   line-height: 1.33;
-  margin-bottom: 60px;
-  max-width: 40ch;
+  max-width: 700px;
   color: #525252;
+  margin-bottom: 10px;
+  text-align: justify;
 }
+.last{
+  margin-bottom: 60px;
+}
+
 .experiencia-texto strong{
   color: #141414;
 }
