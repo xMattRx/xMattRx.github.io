@@ -1,3 +1,14 @@
+.container-projetos a{
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+  margin-top: 10px;
+  font-weight: bold;
+  transition: 1s;
+}
+a:hover{
+  color: #686868;
+}
 .projetos .subtitulo{
   color: #E0E0E0;
 }
@@ -23,13 +34,8 @@
   height: 13em;
   margin: 0px 10px;
 }
-.projeto a{
-  color: #000;
-  cursor: pointer;
-  text-decoration: none;
+.projeto .legenda{
   margin-top: 10px;
-  font-weight: bold;
-  transition: 1s;
 }
 .projeto a:hover{
   color: #686868;
